@@ -1,0 +1,7 @@
+Welcome to GokbunarOS Neptune build 5.3.1071.2!
+To upgrade your system call:
+
+        zypper refresh
+        zypper dup
+
+Btw this OS contains these apps: vim, nano, bsd-games, bs, tmux, links, lynx, sc, yast2
